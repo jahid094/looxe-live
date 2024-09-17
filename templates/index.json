@@ -1,0 +1,350 @@
+{
+  "sections": {
+    "image_with_text_cH7UFP": {
+      "type": "image-with-text",
+      "blocks": {
+        "rating_stars_dhrdBm": {
+          "type": "rating_stars",
+          "settings": {
+            "rating": 4.9,
+            "star_color": "#ffcc00",
+            "bg_stars_style": "full",
+            "bg_star_color": "#ececec",
+            "label": "4.9",
+            "size": 16,
+            "scroll_id": ""
+          }
+        },
+        "heading_PEQcm3": {
+          "type": "heading",
+          "settings": {
+            "title": "Say Mini Cheese!",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1"
+          }
+        },
+        "text_with_icon_3NnRPU": {
+          "type": "text_with_icon",
+          "settings": {
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#121212",
+            "text_1": "2024 High Rated Mini Camera",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "Trophy",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7"
+          }
+        },
+        "text_Vf8a4G": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><\/p><p>🌞 Perfect for capturing memories<br\/>🎁 Perfect gift for your loved ones<br\/>🔑 Carry it anywhere with your keys<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_xHnfFz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now!",
+            "button_link": "shopify:\/\/products\/looxe-summer-mini-camera-1"
+          }
+        }
+      },
+      "block_order": [
+        "rating_stars_dhrdBm",
+        "heading_PEQcm3",
+        "text_with_icon_3NnRPU",
+        "text_Vf8a4G",
+        "button_xHnfFz"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/product_with_table.jpg",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 4,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "d2d3417b-e92f-428c-b221-5bceffb552be": {
+      "type": "comparison-table",
+      "blocks": {
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1": {
+          "type": "row",
+          "settings": {
+            "benefit": "Fast shipping",
+            "us": true,
+            "others": false
+          }
+        },
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2": {
+          "type": "row",
+          "settings": {
+            "benefit": "High quality  😉",
+            "us": true,
+            "others": false
+          }
+        },
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3": {
+          "type": "row",
+          "settings": {
+            "benefit": "Portable",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_bAfPU6": {
+          "type": "row",
+          "settings": {
+            "benefit": "2000s Style",
+            "us": true,
+            "others": false
+          }
+        },
+        "row_3XVxYb": {
+          "type": "row",
+          "settings": {
+            "benefit": "Cost Effective",
+            "us": true,
+            "others": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-1",
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-2",
+        "template--21507361505575__d2d3417b-e92f-428c-b221-5bceffb552be-row-3",
+        "row_bAfPU6",
+        "row_3XVxYb"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Why  Looxe?",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "<p>Looxe  vs Other:<\/p><p>Capture the best summer moments with Looxe mini camera like 2000s - Cost effective & no space issues!<\/p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "looxe-summer-mini-camera-1",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "table_second",
+        "style": "centered",
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "logo_width": 90,
+        "mobile_logo_width": 60,
+        "others_label": "Others",
+        "others_label_size": 18,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#ffffff",
+        "checkmark_bg_color": "#53af01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#dbdbdb",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2e2a39",
+        "custom_colors_highlighted_text": "#ffffff",
+        "custom_colors_others_background": "#ffffff",
+        "custom_colors_others_text": "#2e2a39"
+      }
+    },
+    "image_with_text_8AgBtc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jxhLa8": {
+          "type": "heading",
+          "settings": {
+            "title": "What is inside the 📦?",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        },
+        "text_7jr9g6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>One 📦 contains a: Mini Camera, USB-A charging cable , User-friendly Manual, Keychain Attachment , SD card,  iPhone SD card reader.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Ew3jQd": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jxhLa8",
+        "text_7jr9g6",
+        "button_Ew3jQd"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/product_with_box_2.jpg",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "padding_top": 4,
+        "padding_bottom": 4,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "image_with_text_KBdARn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UKHHK9": {
+          "type": "heading",
+          "settings": {
+            "title": "Looxe Updated  Camera",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h2"
+          }
+        },
+        "text_6Rnt4N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>🔋 Long Lasting Battery<\/p><p>📸 8 different filters<\/p><p>📺 0.96 inch Display HD screen<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_EhUcXc": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_UKHHK9",
+        "text_6Rnt4N",
+        "button_EhUcXc"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image": "shopify:\/\/shop_images\/main-image-5_9de09cf8-44d0-4cbe-962a-6271332c0617.jpg",
+        "height": "adapt",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "section_divider_kkTt9F": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "image_with_text_cH7UFP",
+    "d2d3417b-e92f-428c-b221-5bceffb552be",
+    "image_with_text_8AgBtc",
+    "image_with_text_KBdARn",
+    "section_divider_kkTt9F"
+  ]
+}
